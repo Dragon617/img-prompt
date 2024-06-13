@@ -23,7 +23,7 @@ export const MENU_ITEMS = [
   {
     label: (
       <a href="https://words.aitoolss.cn/" target="_blank" rel="noopener noreferrer">
-        ChatGPT Shortcut
+        AI Words
       </a>
     ),
     key: "aishort",

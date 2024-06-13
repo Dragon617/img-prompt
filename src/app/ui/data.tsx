@@ -3,6 +3,8 @@ import { BgColorsOutlined, ExperimentOutlined, ThunderboltOutlined, ToolOutlined
 
 export const GITHUB_LINK = "https://github.com/Dragon617/img-prompt";
 
+export const DISCORD_BADGE_SRC = "https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge";
+
 export const MENU_ITEMS = [
   {
     label: <Link href="/">IMGPrompt</Link>,
